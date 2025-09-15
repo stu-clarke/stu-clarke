@@ -1,4 +1,3 @@
-
 ## Work Life Balance
 > [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
@@ -64,4 +63,5 @@ flowchart TD
 [:arrow_up:](#top) *Back to Top*
 </details>
 
+<img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="48" alt="Loading your activity..." class="mt-4 hide-reduced-motion">
 

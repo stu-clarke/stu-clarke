@@ -1,10 +1,9 @@
-## Work Life Balance
+# Work Life Balance
 > [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
 
 ```mermaid
 pie showData
-    title  Work Life Balance
         "Work" : 50
         "Thinking about Work" : 30
         "Sleep" : 20
@@ -14,7 +13,7 @@ pie showData
 <summary>“Don’t Fix What Isn’t Broken?”</summary>
 
 
-## A highly scientific 
+# A Highly Scientific 
 > decision making framework.
 
 ```mermaid
@@ -29,7 +28,6 @@ flowchart TD
     F --> N3{No} --> I[Will you get into trouble?]
     H --> N5{No} --> I
     H --> Y5(Yes) --> A
-    I --> Y4(Yes) --> D
     I --> N4{No} --> H[Can you fix it??]
     I --> Y6(**Yes**) --> K{**You're screwed!!**}
 
@@ -50,7 +48,6 @@ flowchart TD
     style Y1 fill:#ffffff,color:#000000,stroke-color:#ffffff,stroke:#000000
     style Y2 fill:#ffffff,color:#000000,stroke-color:#ffffff,stroke:#000000
     style Y3 fill:#ffffff,color:#000000,stroke-color:#ffffff,stroke:#000000
-    style Y4 fill:#ffffff,color:#000000,stroke-color:#ffffff,stroke:#000000
     style Y5 fill:#ffffff,color:#000000,stroke-color:#ffffff,stroke:#000000
     style Y6 fill:#ffffff,color:#000000,stroke-color:#ffffff,stroke:#000000
     style N1 fill:#000000,color:#ffffff,stroke-color:#ffffff,stroke:#000000
